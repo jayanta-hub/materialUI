@@ -1,0 +1,10 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+      "jsx": "react-jsx",  // Explicitly set JSX mode for Jest
+      "esModuleInterop": true, // Ensures import compatibility
+      "module": "commonjs" // Use commonjs for Jest instead of ESNext
+    },
+    "include": ["src", "src/_tests_"]
+  }
+  

@@ -1,0 +1,18 @@
+{
+    "welcome_message": "Welcome to Musafir, register with",
+    "continue_with":"Or continue with email",
+    "email":"Email",
+    "password": "Password",
+    "your_password":"Your Password",
+    "already_account":"Already have an account? Login",
+    "no_account":"Don't have an account? Register",
+    "register":"Register",
+    "your_email":"Your Email",
+    "invalid_email":"Email is invalid",
+    "email_required":"Email is required",
+    "password_length":"Password must be at least 6 characters",
+    "password_required":"Password is required",
+    "google":"Google",
+    "twitter":"Twitter"
+  }
+  
